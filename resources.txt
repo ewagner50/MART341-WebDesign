@@ -1,0 +1,9 @@
+What is a repository and what is its relationship with files?
+  A repository holds all the files, folders, and related content of a website. 
+How are VCS useful?
+  VCS allow the developer to make file changes and gives them the ability to track those changes. They also allow developers the ability to revert changes.
+  Another reason VCS are uuseful is it is easy to incoporate repositories on a site like GitHub, which is a standard industry tool, and then have access to 
+  cloud backup and a free hosted webspace.
+Do you have a favoite artistic medium? Why is this your favorite?
+  My favorite artistic medium is watercolor painting. I love working with the paints and experimenting with the motion of water on a paper to create different
+  designs and patterns. 
